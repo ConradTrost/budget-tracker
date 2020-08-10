@@ -5,6 +5,8 @@
 
   ## Description
   #### Track your budget over time with offline capability utilizing PWAs
+  
+  ![Image](./screenshot.png)
 
   ### Table of Contents:
 
